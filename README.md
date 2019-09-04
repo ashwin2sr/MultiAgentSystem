@@ -1,2 +1,1 @@
-# MultiAgentSystem
- Multi Agent System With New Datastructure
+A sample web application for Multiple Agent System.
